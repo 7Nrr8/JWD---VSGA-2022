@@ -1,0 +1,66 @@
+[
+    {
+        "nama": "Adam Air",
+        "bandara1": "Soekarno-Hatta (CGK)",
+        "bandara2": "Sultan Iskandarmuda (BTJ)",
+        "harga": "2000000",
+        "total_pajak": 120000,
+        "total_bayar": 2120000
+    },
+    {
+        "nama": "Batik",
+        "bandara1": "Husein Sastranegara (BDO)",
+        "bandara2": "Sultan Iskandarmuda (BTJ)",
+        "harga": "100000",
+        "total_pajak": 100000,
+        "total_bayar": 200000
+    },
+    {
+        "nama": "Batik",
+        "bandara1": "Soekarno-Hatta (CGK)",
+        "bandara2": "Hasanuddin (UPG)",
+        "harga": "890000",
+        "total_pajak": 120000,
+        "total_bayar": 1010000
+    },
+    {
+        "nama": "Citilink",
+        "bandara1": "Soekarno-Hatta (CGK)",
+        "bandara2": "Sultan Iskandarmuda (BTJ)",
+        "harga": "89000",
+        "total_pajak": 120000,
+        "total_bayar": 209000
+    },
+    {
+        "nama": "Garuda Indonesia",
+        "bandara1": "Soekarno-Hatta (CGK)",
+        "bandara2": "Ngurah Rai (DPS)",
+        "harga": "1500000",
+        "total_pajak": 130000,
+        "total_bayar": 1630000
+    },
+    {
+        "nama": "Air Asia",
+        "bandara1": "Juanda (SUB)",
+        "bandara2": "Ngurah Rai (DPS)",
+        "harga": "540000",
+        "total_pajak": 120000,
+        "total_bayar": 660000
+    },
+    {
+        "nama": "Nusantara Air",
+        "bandara1": "Soekarno-Hatta (CGK)",
+        "bandara2": "Inanwatan (INX)",
+        "harga": "250000",
+        "total_pajak": 140000,
+        "total_bayar": 390000
+    },
+    {
+        "nama": "Batik Air",
+        "bandara1": "Juanda (SUB)",
+        "bandara2": "Ngurah Rai (DPS)",
+        "harga": "350000",
+        "total_pajak": 120000,
+        "total_bayar": 470000
+    }
+]
